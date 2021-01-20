@@ -2,7 +2,7 @@ from threading import *
 
 soma = 0
 
-
+# O objeto responsável por ler e anotar os resultados
 class LeitorTXT(Thread):
     def __init__(self, arqv, ident, mutex):
         self.arq = arqv
@@ -19,7 +19,6 @@ class LeitorTXT(Thread):
                 self.soma += int(valor.strip())
 
         Resultados.append(self.soma)
-
 
 Resultados = []
 TodasThreads = []
