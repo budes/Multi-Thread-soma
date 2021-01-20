@@ -1,5 +1,5 @@
 # Multi-Thread-soma
-Multi-Threading para somar muitos números
+Multi-Threading para somar 1000000 (1 milhão) de números
 
 # O que foi usado:
 • Python 3.8
