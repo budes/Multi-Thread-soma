@@ -2,7 +2,7 @@
 Multi-Threading para somar 1000000 (1 milhão) de números
 
 # O que foi usado:
-• <span style="color:red">Python3.8</span>
+• Python 3.8
 
 • PyCharm IDE (Community Edition)
 
